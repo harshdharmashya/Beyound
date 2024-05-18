@@ -1,0 +1,22 @@
+.containery{
+    background-color: white;
+    padding: 3% 5%;
+}
+.id{
+    background-color: yellow;
+    width: 8%;
+    height: auto;
+    padding: 1%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.id:hover{
+    transform: scale(1.1);
+}
+.head{
+    background-color: orange;
+    padding: 1% 2%;
+    border-radius: 5%;
+    width: 30%;
+    cursor: pointer;
+}
